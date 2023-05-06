@@ -1,0 +1,8 @@
+{
+    "models": "votre model (contactez un professionel si vous n'êtes pas certains",
+    "system": "2023.0.1",
+    "Username": "default",
+    "Password": "$Password(socket.connecting)",
+    "firmware": "0",
+    "key": "0;1"
+}
